@@ -1,5 +1,8 @@
 # Lab8_Starter
 
+## Author(s):
+- Bozhi Wang
+
 ## LIVE SERVER UNABLE TO START ON PORT 5500, MY TESTS RUN ON PORT 5501 (OKAYED BY SATYAM GUPTA)
 
 ## Check your understanding q's (FILL OUT)
